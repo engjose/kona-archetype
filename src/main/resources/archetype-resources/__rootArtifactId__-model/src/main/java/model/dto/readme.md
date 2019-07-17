@@ -1,0 +1,1 @@
+数据传输对象：用于远程调用传输对象（如Restful， WebService，RPC等服务）。
